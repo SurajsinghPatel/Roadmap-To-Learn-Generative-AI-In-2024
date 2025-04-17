@@ -1,5 +1,5 @@
 # Roadmap To Learn Generative AI In 2024
-
+# ssp
 ## Prerequisites
 
 ## 1. Python Programming Language -1 Month
